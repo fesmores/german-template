@@ -1,0 +1,154 @@
+.logo-title {
+  float: right;
+  text-align: center;
+}
+
+.header-section {
+  background-color: #16213e;
+  color: white;
+  font-family: 'M PLUS Rounded 1c';
+  font-size: 1.5rem;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+}
+
+.header {
+  /* background-color: #16213e; */
+  background-color: #cf1b1b;
+  color: #fff;
+  text-align: center;
+  padding: 150px 25px 150px;
+}
+
+.title {
+  font-family: 'Caveat', cursive;
+  font-size: 5.5rem;
+  font-weight: bold;
+  padding: 10% 10% 1%;
+}
+
+.title-paragraph {
+  font-family: 'Caveat', cursive;
+  font-size: 3.5rem;
+}
+
+.header-image {
+  width: 60%;
+}
+
+.header-container {
+  margin: auto;
+}
+
+.image-container {
+  margin: auto;
+}
+
+/* Nosotros */
+
+.nosotros {
+  background-color: black ;
+  color: #fff;
+  font-family: 'M PLUS Rounded 1c';
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.nosotros-header {
+  font-size: 6rem;
+}
+
+h5 {
+  font-size: 2.5rem;
+  margin-bottom: 5rem;
+}
+
+.nosotros-paragraph {
+  font-family: 'M PLUS Rounded 1c';
+  font-size: 2rem;
+}
+
+/* Features */
+.features {
+  background-color: #16213e;
+  padding: 7% 15%;
+}
+
+.feature-box {
+  color: #fff;
+  padding: 5%;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Caveat';
+  font-size: 3.5rem;
+}
+
+.icon {
+  color: #e4e3e3;
+  margin-bottom: 1.5rem;
+}
+
+.icon-paragraph {
+  font-family: 'M PLUS Rounded 1c';
+  font-size: 1.5rem;
+}
+
+
+/* Niveles */
+
+.niveles-header {
+  text-align: center;
+  color: #fff;
+  font-size: 4.5rem;
+  padding-top: 5%;
+}
+
+.niveles {
+  background-color: #cf1b1b;
+  padding: 2% 5%;
+}
+
+.nivel-box {
+  color: #fff;
+  padding: 5%;
+  text-align: center;
+}
+
+/* Pricing */
+
+.card-header {
+  font-family: 'M PLUS Rounded 1c';
+}
+
+.pricing {
+  padding: 100px;
+  text-align: center;
+  font-family: 'M PLUS Rounded 1c';
+}
+
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+/* Testimonials */
+.testimonials {
+  text-align: center;
+  background-color: #16213e;
+  font-family: 'M PLUS Rounded 1c';
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
